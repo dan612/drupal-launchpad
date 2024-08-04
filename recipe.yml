@@ -50,6 +50,8 @@ install:
   - layout_builder
   - layout_discovery
   - seckit
+  - search_api
+  - search_api_autocomplete
 
 config:
   import:
