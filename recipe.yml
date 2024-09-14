@@ -27,7 +27,6 @@ install:
   - taxonomy
   - dblog
   - toolbar
-  - admin_toolbar
   - field_ui
   - media
   - media_library
