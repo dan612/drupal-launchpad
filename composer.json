@@ -18,7 +18,7 @@
         "drupal/gin": "^3.0",
         "drupal/gin_login": "^2.0",
         "drupal/gin_toolbar": "^1.0",
-        "drupal/openid_connect": "^1.0",
+        "drupal/openid_connect": "^3.0@alpha",
         "drupal/pathauto": "^1.0",
         "drupal/search_api": "^1.35",
         "drupal/search_api_autocomplete": "^1.9",
