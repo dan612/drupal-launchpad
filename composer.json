@@ -27,7 +27,8 @@
     "drupal/metatag": "^2.0",
     "drupal/redirect": "^1.0",
     "drupal/robotstxt": "^1.0",
-    "drupal/seckit": "^2.0"
+    "drupal/seckit": "^2.0",
+    "drupal/layout_builder_styles": "^2.1"
   }
 }
 
